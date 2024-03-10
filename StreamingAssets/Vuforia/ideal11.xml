@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="reverzo" size="1.000000 0.571429" />
+    <ImageTarget name="rezervo_LE_auto_x2" size="1.000000 0.571429" />
+    <ImageTarget name="rezervo" size="1.000000 0.571429" />
+    <ImageTarget name="gg" size="1.000000 0.604377" />
+    <ImageTarget name="sodapdf-converted" size="1.000000 0.606723" />
+    <ImageTarget name="IMG_2634" size="1.000000 1.594801" />
+    <ImageTarget name="mushknit" size="1.000000 1.278689" />
+    <ImageTarget name="veshka" size="1.000000 1.272633" />
+    <ImageTarget name="kockat" size="1.000000 1.264530" />
+    <ImageTarget name="zemra" size="1.000000 1.283813" />
+    <ImageTarget name="IMG_3034" size="1.000000 1.314945" />
+    <ImageTarget name="burger-house-menu" size="1.000000 1.500000" />
+    <ImageTarget name="Side-Real-Estate-Apartment-Sales-Flyer-PSD-Template" size="500.000000 694.930054" />
+  </Tracking>
+</QCARConfig>
